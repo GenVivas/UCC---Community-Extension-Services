@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#1a4d2e" stroke="#4caf50" stroke-width="3"/>
+  <circle cx="50" cy="50" r="40" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+  <text x="50" y="43" text-anchor="middle" fill="white" font-size="16" font-weight="bold" font-family="Arial,sans-serif">UCC</text>
+  <text x="50" y="58" text-anchor="middle" fill="#4caf50" font-size="7.5" font-family="Arial,sans-serif" letter-spacing="1">CES</text>
+  <text x="50" y="70" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="5.5" font-family="Arial,sans-serif">CALOOCAN CITY</text>
+</svg>
